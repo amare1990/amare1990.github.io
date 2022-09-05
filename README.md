@@ -9,6 +9,9 @@ The aim of this project is to show how to deploy the project one has already don
 - No Frameworks used
 - Technologies used: VS code, Git, Github, linters, Github workflows
 
+## Link of my project deployed in Github page
+https://amare1990.github.io/
+
 ## Getting Started
 
 **This is an example of how you may give instructions on deploying your project on Github.**
