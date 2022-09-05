@@ -9,6 +9,9 @@ The aim of this project is to show how to deploy the project one has already don
 - No Frameworks used
 - Technologies used: VS code, Git, Github, linters, Github workflows
 
+## Link of my project deployed in Github page
+https://amare1990.github.io/
+=======
 ## Website Link (Deployed Link)
 - https://amare1990.github.io/
 
@@ -46,3 +49,4 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT/amare1990.github.io](./LICENSE) licensed.
+.
