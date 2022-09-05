@@ -11,6 +11,9 @@ The aim of this project is to show how to deploy the project one has already don
 
 ## Link of my project deployed in Github page
 https://amare1990.github.io/
+=======
+## Website Link (Deployed Link)
+- https://amare1990.github.io/
 
 ## Getting Started
 
